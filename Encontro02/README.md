@@ -1,1 +1,1 @@
-Está e a Atividade do Encontro02 da disciplina de Estrutura de dados.
+Esta é a Atividade do Encontro02 da disciplina de Estrutura de dados.
