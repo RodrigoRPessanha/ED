@@ -7,7 +7,7 @@ public class EDEncontro02 {
         Scanner teclado = new Scanner(System.in); 
         int menu;
         do {
-            System.out.println("1- Q2 a) Lista de Adjacencia\n2- Q2 b) Matriz A de adjacencia\n3- Q2 c) Matriz B de incidencia\n4- Q3 Verificar existencia de laços\n5- Q4 Imprimir graus de cada vértice");
+            System.out.println("1- Q2 a) Lista de Adjacencia\n2- Q2 b) Matriz A de adjacencia\n3- Q2 c) Matriz B de incidencia\n4- Q3 Verificar existencia de laços\n5- Q4 Imprimir graus de cada vértice\n0- Sair do programa");
             menu = teclado.nextInt();
             switch (menu) {
                 case 1:
